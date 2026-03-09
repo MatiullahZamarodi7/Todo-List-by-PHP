@@ -4,4 +4,10 @@
 this is the most usees for your if you work with this you dont want others
 ---
 🚀 **Live Demo:**  
-[View Project](img.png)
+# Todo List Project
+
+This is my Todo List project.
+
+![Project Screenshot](img.png)
+
+---
